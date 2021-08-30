@@ -1,0 +1,53 @@
+body {
+    background-color: aquamarine;
+    text-align: left;
+}
+#d {
+   color: aqua;
+}
+
+#m {
+    position: absolute;
+    left:900px;
+}
+#b {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPEQD4T7YZQ8F95Iuh3llI4PpEyqI_mVsrBY_lsvYwVvlIvfRtfPLBiE_PnPTMJLz6OE:https://heavy.com/wp-content/uploads/2019/06/archero-game.jpg%3Fquality%3D65%26strip%3Dall&usqp=CAU");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  #aa {
+      color: green;
+
+  }
+#ab {
+    color: aqua;
+}
+#b {
+
+    color: green;
+}
+#as {
+    position: absolute;
+    left: 1000px;
+}
+#AC {color: darkolivegreen;
+}
+table#th {
+    border: 6px solid green;
+}
+
+#h2 {
+    color: green;
+}
+#yellow {
+    color:yellow;
+}
+#ol {
+    text-decoration : underline ;
+}
+#or {
+color: orange;}
+#sc {
+    position: absolute;
+    left: 1000px;
